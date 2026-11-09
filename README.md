@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Maryam Ghadiri 👋
 
-<!--
-**maryam-ghadiri/maryam-ghadiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Front-End Developer
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student passionate about web development and building responsive, user-friendly interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+### 📚 Currently Learning
+- JavaScript
+- React
+- Modern Front-End Development
+
+### 🎯 Goals
+- Build real-world web projects
+- Improve my coding skills
+- Collaborate with development teams
+
+### 📫 Contact
+- Email: ghadirimaryam722@gmail.com
